@@ -14,7 +14,7 @@ A Python package for solving Generalized Nash Equilibrium Problems by active lea
 
 * [Acknowledgments](#acknowledgments)
 
-* [Citing jax-sysid](#bibliography)
+* [Citing gnep-learn](#bibliography)
 
 * [License](#license)
 
